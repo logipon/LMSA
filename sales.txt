@@ -1,0 +1,3 @@
+January sales: 1000
+February sales: 2000
+March sales: 3000
